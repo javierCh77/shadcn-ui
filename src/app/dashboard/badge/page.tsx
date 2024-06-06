@@ -3,7 +3,7 @@ import { Badge } from "@/components/ui/badge"
 
 export default function Page() {
   return (
-    <div className="grid grid-cols-4 gap-4">
+    <div className="grid grid-cols-5 gap-4">
       <Badge>Badge</Badge>
       <Badge variant='destructive'>destructive</Badge>
       <Badge variant='secondary'>secondary</Badge>
