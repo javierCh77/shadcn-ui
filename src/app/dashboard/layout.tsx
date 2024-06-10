@@ -11,6 +11,8 @@ const links = [
   { name: "alert-dialog", href: "alert-dialog" },
   { name: "dialog", href: "dialog" },
   { name: "badge", href: "badge" },
+  { name: "calendar", href: "calendar" },
+  { name: "avatar", href: "avatar" },
 ].sort((a, b) => a.name.localeCompare(b.name));
 //aqui funcion para acomodarlo alfabeticamente localcompare con sort
 
